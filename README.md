@@ -1,23 +1,32 @@
-<h1 align="center">Hi 👋, This is Ullash Deb Nath</h1>
-<h3 align="center">A passionate student from Bangladesh</h3>
+<h2 align="center">
+  Welcome to Ullash Deb Nath's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=solarized-dark&center=true&vCenter=true&lines=Passionate;Ideator;Dreamer"><br>
+  </p>
+</h2>
 
-- 🌱 I’m currently learning **Python**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ullash-deb-nath&show_icons=true&locale=en&layout=compact" alt="ullash-deb-nath" /></p>
+# 💫 About Me
+Hi, I'm Ullash. Currently I am doing B.Sc. in Computer Science and Engineering (CSE) at Premier University. Highly interested in Machine Learning and Artificial Intelligence. In near future I would love to work  as a Machine Learning Engineer in various industry.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ullash-deb-nath&show_icons=true&locale=en" alt="ullash-deb-nath" /></p>
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ullash.Deb.Nath.1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ullash_Deb_Nath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ullash-Deb-Nath)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ullash-deb-nath&" alt="ullash-deb-nath" /></p>
+# 💻 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/ullash.deb.nath.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ullash.deb.nath.1" height="30" width="40" /></a>
-<a href="https://twitter.com/ullash_deb_nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ullash_deb_nath" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ullash-deb-nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ullash-deb-nath" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ullash_deb_nath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ullash_deb_nath" height="30" width="40" /></a>
-</p>
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Ullash-Deb-Nath&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ullash-Deb-Nath&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ullash-Deb-Nath&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ullash-deb-nath&label=Profile%20views&color=0e75b6&style=flat" alt="ullash-deb-nath" /> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ullash-Deb-Nath&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ullash-Deb-Nath&icon=2&color=1)](https://visitcount.itsvg.in)
