@@ -17,7 +17,7 @@
 Hi, I'm Ullash. Currently I am doing Bachelor of Science in Computer Science and Engineering (CSE) at Premier University. Highly interested in Machine Learning and Artificial Intelligence. In near future I would love to work as a Machine Learning Engineer in various industry.
 
 
-<img alt="Coding" src="https://camo.githubusercontent.com/c6deab2f711f5000f9f6fc6e38a4f413ed50392c11a2938a351155cb137c6c81/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36362f38332f33652f36363833336530376436666239656235643732346534376430633831343238352e6769663f7261773d74727565" width='360' align="right"/>
+<img alt="Coding" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width='360' align="right"/>
 
 
 ## 🌐 Socials
@@ -40,13 +40,6 @@ Hi, I'm Ullash. Currently I am doing Bachelor of Science in Computer Science and
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ullash-Deb-Nath&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
-
----
-
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Ullash_Deb_Nath)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 
 ---
