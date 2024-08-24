@@ -21,7 +21,7 @@ Hi, I'm Ullash. Currently I am doing Bachelor of Science in Computer Science and
 
 
 ## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ullash.Deb.Nath.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ullash_Deb_Nath) [![Threads](https://img.shields.io/badge/Threads-%23000000.svg?logo=Threads&logoColor=white)](https://www.threads.net/@Ullash_Deb_Nath) [![X](https://img.shields.io/badge/X-%2312100E.svg?logo=x&logoColor=white)](https://x.com/Ullash_Deb_Nath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ullash-Deb-Nath) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20997237)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ullash.Deb.Nath.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ullash_Deb_Nath) [![Threads](https://img.shields.io/badge/Threads-%23000000.svg?logo=Threads&logoColor=white)](https://www.threads.net/@Ullash_Deb_Nath) [![X](https://img.shields.io/badge/X-%2312100E.svg?logo=x&logoColor=white)](https://x.com/Ullash_Deb_Nath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ullash-Deb-Nath) 
 
 
 # 💻 Tech Stack
