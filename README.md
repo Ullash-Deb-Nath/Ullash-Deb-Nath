@@ -17,9 +17,6 @@
 Hi, I'm Ullash. Currently I am doing Bachelor of Science in Computer Science and Engineering (CSE) at Premier University. Highly interested in Machine Learning and Artificial Intelligence. In near future I would love to work as a Machine Learning Engineer in various industry.
 
 
-<img alt="Coding" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width='360' align="right"/>
-
-
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ullash.Deb.Nath.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ullash_Deb_Nath) [![Threads](https://img.shields.io/badge/Threads-%23000000.svg?logo=Threads&logoColor=white)](https://www.threads.net/@Ullash_Deb_Nath) [![X](https://img.shields.io/badge/X-%2312100E.svg?logo=x&logoColor=white)](https://x.com/Ullash_Deb_Nath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ullash-Deb-Nath) 
 
