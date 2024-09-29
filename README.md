@@ -26,17 +26,17 @@ Hi, I'm Ullash. Currently I am doing Bachelor of Science in Computer Science and
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Ullash-Deb-Nath&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ullash-Deb-Nath&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ullash-Deb-Nath&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ullashdn&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ullashdn&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ullashdn&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ullash-Deb-Nath&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ullashdn&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ullash-Deb-Nath&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ullashdn&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 
 ---
