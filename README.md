@@ -1,4 +1,3 @@
----
 
 
 <h2 align="center">
@@ -10,7 +9,7 @@
 </h2>
 
 
----
+
 
 
 # 💫 About Me
@@ -39,7 +38,6 @@ Hi, I'm Ullash. Currently I am doing Bachelor of Science in Computer Science and
 ![](https://github-contributor-stats.vercel.app/api?username=ullashdn&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 
----
 
 
 ## ✍️ Dev Quote
@@ -50,6 +48,3 @@ Hi, I'm Ullash. Currently I am doing Bachelor of Science in Computer Science and
 
 
 [![](https://visitcount.itsvg.in/api?id=Ullash-Deb-Nath&icon=2&color=1)](https://visitcount.itsvg.in)
-
-
----
